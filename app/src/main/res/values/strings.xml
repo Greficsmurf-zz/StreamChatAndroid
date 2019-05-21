@@ -7,4 +7,13 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
+
+    <string name="drawer_menu_follows">Followed channels</string>
+    <string name="drawer_menu_find">Find stream</string>
+    <string name="search_bar_hint">Search&#8230;</string>
+
+    <string name="client_id">j8izzvzi8t8mpw2bl7oi8ks22sq2mx</string>
+    <string name="user_followed_api">https://api.twitch.tv/helix/users/follows?from_id=USERID</string>
+    <string name="user_info_api">https://api.twitch.tv/helix/users</string>
+    <string name="url_token">https://id.twitch.tv/oauth2/authorize?response_type=token&amp;client_id=j8izzvzi8t8mpw2bl7oi8ks22sq2mx&amp;redirect_uri=http://localhost&amp;scope=chat:read chat:edit</string>
 </resources>

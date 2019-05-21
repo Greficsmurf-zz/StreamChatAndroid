@@ -18,7 +18,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activities.MainPage" />
         <activity
             android:name=".Activities.MainActivity"
             android:label="@string/title_activity_main"
